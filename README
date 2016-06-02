@@ -1,0 +1,28 @@
+These are the raw data that were developed as part of the project reported in
+the paper:
+
+
+Richard Sproat, Bruno Cartoni, HyunJeong Choe, David Huynh, Linne Ha, Ravindran
+Rajakumar, Evelyn Wenzel-Grondie. 2014.  A Database for Measuring Linguistic
+Information Content. Language Resources and Evaluation Conference, Reykjavík,
+Iceland.
+
+http://www.lrec-conf.org/proceedings/lrec2014/pdf/47_Paper.pdf
+
+Abstract:
+
+Which languages convey the most information in a given amount of space? This is
+a question often asked of linguists, especially by engineers who often have some
+information theoretic measure of "information" in mind, but rarely define
+exactly how they would measure that information. The question is, in fact
+remarkably hard to answer, and many linguists consider it unanswerable. But it
+is a question that seems as if it ought to have an answer. If one had a database
+of close translations between a set of typologically diverse languages, with
+detailed marking of morphosyntactic and morphosemantic features, one could hope
+to quantify the differences between how these different languages convey
+information. Since no appropriate database exists we decided to construct
+one. The purpose of this paper is to present our work on the database, along
+with some preliminary results. We plan to release the dataset once complete.
+
+
+
