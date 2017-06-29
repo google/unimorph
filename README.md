@@ -6,9 +6,9 @@ Rajakumar, Evelyn Wenzel-Grondie. 2014.  A Database for Measuring Linguistic
 Information Content. Language Resources and Evaluation Conference, Reykjavík,
 Iceland.
 
-http://www.lrec-conf.org/proceedings/lrec2014/pdf/47_Paper.pdf
+[http://www.lrec-conf.org/proceedings/lrec2014/pdf/47_Paper.pdf](https://goo.gl/e4y11Q)
 
-Abstract:
+# Abstract
 
 Which languages convey the most information in a given amount of space? This is
 a question often asked of linguists, especially by engineers who often have some
@@ -23,9 +23,7 @@ information. Since no appropriate database exists we decided to construct
 one. The purpose of this paper is to present our work on the database, along
 with some preliminary results. We plan to release the dataset once complete.
 
-....
-
-Per the paper:
+# Per the paper
 
 Our data are taken from a few domains of interest to Google including driving
 directions and answers generated from structured data for Google Now™. (Note
