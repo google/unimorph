@@ -23,6 +23,8 @@ information. Since no appropriate database exists we decided to construct
 one. The purpose of this paper is to present our work on the database, along
 with some preliminary results. We plan to release the dataset once complete.
 
+<hr>
+
 # Per the paper
 
 Our data are taken from a few domains of interest to Google including driving
