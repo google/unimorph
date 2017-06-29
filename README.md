@@ -8,6 +8,8 @@ Iceland.
 
 [http://www.lrec-conf.org/proceedings/lrec2014/pdf/47_Paper.pdf](https://goo.gl/e4y11Q)
 
+<hr>
+
 # Abstract
 
 Which languages convey the most information in a given amount of space? This is
